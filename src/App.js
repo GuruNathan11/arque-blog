@@ -23,7 +23,7 @@ const Chat = () => {
       {
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${process.env.API_KEY}`,
+          "Authorization": `Bearer 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`,
         },
       }
     );
